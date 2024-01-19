@@ -1,0 +1,26 @@
+.eventContainer {
+    background-color: black;
+    color: white;
+}
+.innerContainer {
+    width: 1200px;
+    margin: auto;
+    padding-top: 100px;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    text-align: left;
+}
+.eventBlock {
+    width: 350px;
+    padding-right: 50px;
+    margin-bottom: 50px;
+}
+.blockDesc{
+    width: 350px;
+}
+.eventBox {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}

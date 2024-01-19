@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/mac/Desktop/Bevent/celo-bevent-platform/contracts/EventFund.sol": {
+      "lastModificationDate": 1698187520327,
+      "contentHash": "a0052a3ffc1f650c77b95566b1546a34",
+      "sourceName": "contracts/EventFund.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.6"
+      ],
+      "artifacts": [
+        "EventFund"
+      ]
+    }
+  }
+}
